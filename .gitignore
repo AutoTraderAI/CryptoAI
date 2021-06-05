@@ -1,0 +1,7 @@
+test_excels/
+
+node_modules/
+
+/api_key.json
+/package.json
+/package-lock.json
